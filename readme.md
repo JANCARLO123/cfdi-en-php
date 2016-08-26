@@ -20,12 +20,10 @@ De igual forma este proyecto se encuentra abierto a la colaboración de la comun
 En cualquiera de los casos pueden contactarme directamente en:
 
 Facebook: https://www.facebook.com/luislaredov
-Twitter: @luislaredov
+Twitter:  https://www.twitter.com/luislaredov
 
 
 ## Vulnerabilidades de seguridad
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
 
 Es probable que exista alguna vulnerabilidad que yo no haya considerado al momento de realizar este proyecto. Todas las correcciones las publicaré en mi blog luislaredovelazquez.com. Si encuentras alguna, por favor no dudes en contactarme en las redes sociales que mencioné anteriormente.
 
