@@ -9,7 +9,7 @@ Además la plataforma permite enviar recordatorios de cumpleaños, cobro, voz o 
 
 ## Documentación Oficial
 
-He creado una guía que muestra de manera simple como configurar el sistema y como mercadearlo en caso de que se quiera utilizar con fines comerciales.
+He creado una [guía](https://luislaredovelazquez.com/2016/08/27/hice-un-proyecto-opensource-para-que-puedas-facturar-y-te-lo-quiero-compartir/) que muestra de manera simple como configurar el sistema y como mercadearlo en caso de que se quiera utilizar con fines comerciales.
 
 ## Contribución
 
